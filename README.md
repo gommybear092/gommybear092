@@ -8,7 +8,7 @@
   <a href="https://test.com"><img src="https://img.shields.io/badge/@gommye-000000?style=flat-square&amp;labelColor=000000&amp;logo=Codepen&amp;link=https://test" alt="Codepen Badge"></a>
   <a href="http://hits.dwyl.com/gommyelee/gommyelee/gommyelee.svg?style=flat-square"><img src="https://hits.dwyl.com/gommyelee/gommyelee/gommyelee.svg?style=flat-square" alt="HitCount"></a>
 -->
-![Tistory](https://img.shields.io/static/v1?label=&message=@gommybear092&color=ff5500&logo=Tistory&logoColor=FFFFFF)
+![Tistory](https://img.shields.io/static/v1?label=&message=@gommye&color=ff5500&logo=Tistory&logoColor=FFFFFF)
 ![Codepen](https://img.shields.io/static/v1?label=&message=@gommybear092&color=000000&logo=Codepen&logoColor=FFFFFF)
 [![ProfileViews](https://komarev.com/ghpvc/?username=gommybear092&color=blue&style=flat)](https://komarev.com/ghpvc/?username=gommybear092)
 
